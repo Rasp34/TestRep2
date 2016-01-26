@@ -6,4 +6,6 @@ public class TwoClass {
     public int OneInteger = 1;
     public int TwoInteger = 2;
 
+    public byte data;
+
 }
